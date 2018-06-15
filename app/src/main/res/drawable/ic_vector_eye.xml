@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportHeight="100.0"
+    android:viewportWidth="100.0">
+    <group
+        android:name="eye"
+        android:pivotX="50"
+        android:pivotY="50">
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M10.1,50C21,58.8,34.9,64,50,64S79,58.8,90 50C79,41.2,65.1,36,50,36S21,41.2,10.1,50z"
+            android:strokeColor="@color/my_color"
+            android:strokeWidth="2" />
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M50,50m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0"
+            android:strokeColor="@color/my_color"
+            android:strokeWidth="2" />
+    </group>
+    <group
+        android:name="eye_close"
+        android:pivotX="50"
+        android:pivotY="50">
+        <path
+            android:name="eye_close"
+            android:fillColor="#00000000"
+            android:pathData="M10.8,80L89.3,20"
+            android:strokeColor="@color/my_color"
+            android:strokeWidth="2" />
+    </group>
+</vector>

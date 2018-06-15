@@ -1,0 +1,6 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_img_faq_down">
+    <target
+        android:name="path_up_down"
+        android:animation="@anim/up_down" />
+</animated-vector>

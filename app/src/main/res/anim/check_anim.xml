@@ -1,0 +1,17 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="500"
+        android:interpolator="@android:anim/decelerate_interpolator"
+        android:propertyName="pathData"
+        android:valueFrom="M24,24m-23,0a23,23 0,1 1,46 0a23,23 0,1 1,-46 0"
+        android:valueTo="M24,24m-12.5,0a12.5,12.5 0,1 1,25 0a12.5,12.5 0,1 1,-25 0"
+        android:valueType="pathType" />
+    <objectAnimator
+        android:duration="500"
+        android:interpolator="@android:anim/linear_interpolator"
+        android:propertyName="fillColor"
+        android:valueTo="#42f486"
+        android:valueType="intType"></objectAnimator>
+
+</set>

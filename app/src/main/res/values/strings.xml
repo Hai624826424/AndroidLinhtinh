@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Linhtinh</string>
+    <string name="my_text">Start</string>
+    <string name="undo">Undo</string>
+    <string name="example">Buttons are best placed on the left side of a card to increase their visibility. However, as cards have flexible layouts, buttons may be placed in a location suited to the content and context, while maintaining consistency within the product.\n\n
+        My Passport là dòng sản phẩm mang thiết kế đột phá của WD được ra mắt từ cuối năm ngoái. Dòng sản phẩm này bao gồm sáu màu chủ đạo: đỏ, cam, vàng, trắng, đen và xanh dương với thiết kế trẻ trung và phá cách. Ngoài ra My Passport còn tích hợp một số phần mềm để bạn có thể quản lý dữ liệu tốt hơn như WD Security dùng để cài đặt mật khẩu cho ổ cứng của bạn, WD Backup để bạn sao lưu dữ liệu được thường xuyên hơn và tránh tình trạng mất dữ liệu. Cuối cùng là tính năng WD Drive Utilities giúp bạn quản lý được tất cả thông tin liên quan đến ổ cứng của bạn. Ổ cứng My Passport được sản xuất tại Thái Lan &amp; Malaysia cùng chế độ bảo hành 3 năm 1 đổi 1, WD luôn hướng đến mang lại dịch vụ và sản phẩm tốt nhất đến tay người tiêu dùng.\n\n
+    My Cloud Home là dòng sản phẩm ổ cứng mạng mới nhất được WD tung ra trong thời gian gần đây. Ổ cứng My Cloud Home sau khi được kết nối với router wifi và nguồn điện sẽ có tính năng giống như một server thu nhỏ tại nhà của bạn. Bạn có thể kết nối với ổ cứng My Cloud Home bằng cách đăng nhập vào website www.mycloud.com hoặc sử dụng ứng dụng My Cloud có trên iOS &amp; Android. Ổ cứng My Cloud Home sẽ giúp bạn truy cập dữ liệu mọi lúc, mọi nơi và đồng bộ hóa tất cả dữ liệu từ laptop, điện thoại, máy tính bảng vào chung một ổ cứng, và tất cả đều được quản lý từ xa một cách dễ dàng. Ngoài ra My Cloud Home được tích hợp ổ cứng WD Red bên trong giúp bạn vận hàng thiết bị liên tục 24/7 mà không gặp phải vấn đề gì. Với chế độ bảo hành 2 năm 1 đổi 1, bạn có thể tự tin sử dụng My Cloud Home như một giải pháp lưu trữ từ xa, lưu những thông tin cá nhân cũng như tất cả thành viên trong gia đình bạn một cách an toàn.\n\n
+    Đây không chỉ là phiếm đàm trên bàn nhậu mà là nội dung cuộc hội thảo tại Đại học hàng đầu nước Anh, Đại học London, Khoa nghiên cứu đông phương học và châu Phi cuối tuần trước. Với chủ đề "Văn hóa lừa và la trên thế giới", hội thảo này thu hút sự chú ý của đông đảo các chuyên gia hàng đầu không chỉ trong lĩnh vực sinh học.\n\nTheo chuyên gia Ben Hart, khu bảo tồn lừa, khi trả lời câu hỏi lừa là loài cứng đầu hay thông minh, ông này cho rằng, lịch sử tiến hóa của lừa và la đã dẫn tới các hành vi trong đó dễ bị hiểu nhầm và góp phần vào định kiến rằng chúng rất khó bảo.\n\n
+    If you display an always-on-top window over a "Secured Button", so all the secured button parts that are covered by an overlay will not handle any touches, even if that overlay is not clickable. So if you are planing to display such a window, you should provide a way for the user to move it or dismiss it. And if a part of your overlay is transparent, take into account that your user might be confused why is a certain button in the underlying app is not working for him suddenly.</string>
+    <string name="whale">Cá voi 52 hertz là một cá thể cá voi thuộc loài không xác định, tiếng kêu của nó có tần số bất thường là 52 Hz. Tần số này cao hơn nhiều so với những loài cá voi khác có tập tính di cư tương tự[1] như cá voi xanh (10–39 Hz)[2] hay cá voi vây (20 Hz).[1] Nó được phát hiện thường xuyên ở nhiều địa điểm khác nhau từ cuối những năm 1980 và có vẻ như là cá thể duy nhất phát ra tiếng kêu ở tần số này. Nó được truyền thông gọi là "Chú cá voi cô đơn nhất hành tinh"</string>
+
+
+        <string-array name="countries_array">
+            <item>Afghanistan</item>
+            <item>Albania</item>
+            <item>Algeria</item>
+            <item>American Samoa</item>
+            <item>Andorra</item>
+            <item>Angola</item>
+            <item>Anguilla</item>
+            <item>Antarctica</item>
+        </string-array>
+</resources>

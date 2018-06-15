@@ -1,0 +1,6 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/vector_bird">
+    <target
+        android:animation="@anim/fly"
+        android:name="bird" />
+</animated-vector>

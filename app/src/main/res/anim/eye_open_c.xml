@@ -1,0 +1,13 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="250"
+        android:repeatCount="1"
+        android:repeatMode="reverse"
+        android:interpolator="@android:anim/decelerate_interpolator"
+        android:propertyName="pathData"
+        android:valueFrom="M10,50C19.1,62.1,33.6,70,50,70S80.9 62,90 50C80.9 41.9 66.4,30 50,30S19.1,37.9,10,50z"
+        android:valueTo="M10.1,50C21,58.8,34.9,64,50,64S79,58.8,90 50C79,41.2,65.1,36,50,36S21,41.2,10.1,50z"
+        android:valueType="pathType" />
+
+</set>

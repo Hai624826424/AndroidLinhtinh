@@ -1,0 +1,24 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/linear_interpolator">
+
+    <objectAnimator
+        android:duration="@integer/duration"
+        android:interpolator="@android:anim/linear_interpolator"
+        android:propertyName="scaleX"
+        android:valueTo="1"
+        android:valueType="floatType"></objectAnimator>
+
+    <objectAnimator
+        android:duration="@integer/duration"
+        android:propertyName="scaleY"
+        android:valueTo="1"
+        android:valueType="floatType"></objectAnimator>
+
+    <objectAnimator
+        android:duration="@integer/duration"
+        android:interpolator="@android:anim/linear_interpolator"
+        android:propertyName="rotation"
+        android:valueFrom="0f"
+        android:valueTo="-3600f"
+        android:valueType="floatType"></objectAnimator>
+</set>

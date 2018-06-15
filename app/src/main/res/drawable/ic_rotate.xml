@@ -1,0 +1,57 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportHeight="80.0"
+    android:viewportWidth="80.0">
+    <group
+        android:name="group_rotate"
+        android:pivotX="40.0"
+        android:pivotY="40.0">
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M40,3C19.6,3 3,19.6 3,40c0,20.4 16.6,37 37,37s37,-16.6 37,-37"
+            android:strokeColor="@color/my_color"
+            android:strokeWidth="1" />
+    </group>
+    <group
+        android:name="group_rotate_fast"
+        android:pivotX="40.0"
+        android:pivotY="40.0">
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M6,40c0,18.8 15.2,34 34,34s34,-15.2 34,-34C74,21.2 58.8,6 40,6"
+            android:strokeColor="@color/my_color"
+            android:strokeWidth="1" />
+    </group>
+    <group
+        android:name="group_rotate_revert"
+        android:pivotX="40.0"
+        android:pivotY="40.0">
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M40,71c17.1,0 31,-13.9 31,-31C71,22.9 57.1,9 40,9S9,22.9 9,40"
+            android:strokeColor="@color/my_color"
+            android:strokeWidth="1" />
+    </group>
+    <group
+        android:name="group_rotate_inner"
+        android:pivotX="40.0"
+        android:pivotY="40.0">
+
+        <path
+            android:fillColor="@color/my_color"
+            android:pathData="M65,40H40l12.5,21.6C60,57.3 65,49.3 65,40z"
+            android:strokeColor="@color/my_color"
+            android:strokeWidth="0" />
+        <path
+            android:fillColor="@color/my_color"
+            android:pathData="M27.5,18.3L40,40l12.5,-21.6C45,14 35.5,13.7 27.5,18.3z"
+            android:strokeColor="@color/my_color"
+            android:strokeWidth="0" />
+        <path
+            android:fillColor="@color/my_color"
+            android:pathData="M27.5,61.7L40,40l-25,0C15,48.6 19.5,57 27.5,61.7z"
+            android:strokeColor="@color/my_color"
+            android:strokeWidth="0" />
+    </group>
+</vector>

@@ -1,0 +1,18 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_rotate">
+    <target
+        android:name="group_rotate"
+        android:animation="@anim/rotation" />
+
+    <target
+        android:name="group_rotate_fast"
+        android:animation="@anim/rotation_fast" />
+
+    <target
+        android:name="group_rotate_revert"
+        android:animation="@anim/rotation_revert" />
+
+    <target
+        android:name="group_rotate_inner"
+        android:animation="@anim/rotation_revert_slow" />
+</animated-vector>
